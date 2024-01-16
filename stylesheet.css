@@ -2,3 +2,8 @@
     font-family: mycustomstyle;
     src: url('fonts/roboto.ttf');
 }
+@media (min-width:500px) {
+    body{
+        background-color: lightseagreen;
+    }
+}
